@@ -1,0 +1,182 @@
+section,item,label,value,se,p,lo,hi,n,note
+a,baseline_coef_midline,"WHOQOL-BREF, midline ANCOVA: coefficient on baseline score (HC2 SE, 95% CI)",0.7009,0.1017,,0.4992,0.9026,102,
+a,baseline_coef_eq1_midline,"WHOQOL-BREF, midline: HC2 test that the baseline coefficient equals 1 (value = F, 1 df)",8.6569,,0.0041,,,102,p is the test of equality to 1
+a,baseline_coef_endline,"WHOQOL-BREF, endline ANCOVA: coefficient on baseline score (HC2 SE, 95% CI)",0.75,0.0847,,0.5816,0.9184,85,
+a,baseline_coef_eq1_endline,"WHOQOL-BREF, endline: HC2 test that the baseline coefficient equals 1 (value = F, 1 df)",8.7187,,0.0041,,,85,p is the test of equality to 1
+b,dose_weeks_whoqol,"WHOQOL-BREF endline score on baseline plus weeks attended, among those attending by endline (points per week; HC2)",-0.0073,0.2653,0.9783,-0.559,0.5443,24,association only: who attends more is a choice
+b,dose_dpw_whoqol,"WHOQOL-BREF endline score on baseline plus days attended per week, among those attending by endline (points per day per week; HC2)",0.3264,2.0485,0.8749,-3.9338,4.5866,24,association only: who attends more is a choice
+b,dose_weeks_environmental,"Environmental endline score on baseline plus weeks attended, among those attending by endline (points per week; HC2)",-0.1096,0.3567,0.7616,-0.8514,0.6321,24,association only: who attends more is a choice
+b,dose_dpw_environmental,"Environmental endline score on baseline plus days attended per week, among those attending by endline (points per day per week; HC2)",-0.2754,2.7152,0.9202,-5.9219,5.3711,24,association only: who attends more is a choice
+b,dose_days_by_survey_range,"Days attended up to the endline survey, those attending by endline: mean (range in lo to hi)",99.9167,,,36,149,24,
+b,dose_days_register_range,"Days attended in the whole register, those attending by endline: mean (range in lo to hi)",121.9583,,,50,202,24,register runs 18 January 2023 to 16 February 2024
+b,dose_weeks_by_survey_range,"Weeks attended up to the endline survey, those attending by endline: mean (range in lo to hi)",19.9833,,,7.2,29.8,24,
+b,dose_dpw_by_survey_range,"Days per week up to the endline survey, those attending by endline: mean (range in lo to hi)",2.487,,,1.004,3.6215,24,
+b,brief_attenders_n,Endline sample: invited people with 1 to 5 days by the survey (counted as not attending),6,,,,,85,
+b,gap_6_to_35_days_n,Endline sample: people with 6 to 35 days by the survey (none expected),0,,,,,85,
+c,lawton_heavy_20weeks,"Invited who attended at least once by endline, 20 weeks or more vs less: mean baseline Lawton, heavy",2.5333,,,,,15,
+c,lawton_light_20weeks,"Invited who attended at least once by endline, 20 weeks or more vs less: mean baseline Lawton, light",4.4286,,,,,14,
+c,lawton_diff_20weeks,"Invited who attended at least once by endline, 20 weeks or more vs less: heavy minus light (p = Welch t test)",-1.8952,,0.0341,,,29,
+c,lawton_wilcoxon_20weeks,"Invited who attended at least once by endline, 20 weeks or more vs less: Wilcoxon rank sum p",,,0.0405,,,29,
+c,lawton_heavy_100days,"Attending by endline (more than 5 days), more than 100 days vs fewer: mean baseline Lawton, heavy",2.5333,,,,,15,
+c,lawton_light_100days,"Attending by endline (more than 5 days), more than 100 days vs fewer: mean baseline Lawton, light",5.25,,,,,8,
+c,lawton_diff_100days,"Attending by endline (more than 5 days), more than 100 days vs fewer: heavy minus light (p = Welch t test)",-2.7167,,0.0179,,,23,
+c,lawton_wilcoxon_100days,"Attending by endline (more than 5 days), more than 100 days vs fewer: Wilcoxon rank sum p",,,0.0173,,,23,
+c,lawton_missing_20weeks,Definition 1 group: people without a baseline Lawton score (dropped),1,,,,,,
+d,months_entry_to_midline_attenders,"Months from entry to the midline survey, those attending by then: mean (range in lo to hi)",3.4638,,,2.7598,5.3881,28,
+d,months_entry_to_midline_attenders_sd,"Months from entry to the midline survey, those attending by then: SD",0.476,,,,,28,
+d,months_base_to_midline_rest,"Months from baseline to the midline survey, everyone else: mean (range in lo to hi)",6.13,,,3.9754,10.809,74,
+d,months_base_to_midline_rest_sd,"Months from baseline to the midline survey, everyone else: SD",1.1218,,,,,74,
+d,months_base_to_midline_all,"Months from baseline to the midline survey, whole midline sample: mean (range in lo to hi)",6.1431,,,3.9754,10.809,102,
+d,months_entry_to_endline_attenders,"Months from entry to the endline survey, those attending by then: mean (range in lo to hi)",9.2526,,,8.2464,10.5133,24,
+d,months_entry_to_endline_attenders_sd,"Months from entry to the endline survey, those attending by then: SD",0.4716,,,,,24,
+d,months_base_to_endline_rest,"Months from baseline to the endline survey, everyone else: mean (range in lo to hi)",11.4715,,,9.6591,14.9158,61,
+d,months_base_to_endline_rest_sd,"Months from baseline to the endline survey, everyone else: SD",1.0307,,,,,61,
+d,months_base_to_endline_all,"Months from baseline to the endline survey, whole endline sample: mean (range in lo to hi)",11.6459,,,9.6591,14.9158,85,
+d,months_base_to_entry_attenders,"Months from baseline to entry, those attending by endline: mean (range in lo to hi)",2.8364,,,0.9856,5.2895,24,
+d,timing_joint_F_classical,"Joint test, months to endline (entry clock for attenders, baseline clock otherwise) on six baseline characteristics: classical F (6, 77 df)",0.2336,,0.9643,,,84,"baseline WHOQOL-BREF, age, Lawton, Katz, sex, education"
+d,timing_joint_F_hc2,"Same joint test, HC2 Wald F",0.3114,,0.9292,,,84,"baseline WHOQOL-BREF, age, Lawton, Katz, sex, education"
+d,timing_joint_F_classical_baseclock,Joint test with months from baseline to endline for everyone: classical F,0.4851,,0.8175,,,84,secondary: one clock for all
+d,timing_joint_F_hc2_baseclock,Joint test with months from baseline to endline for everyone: HC2 Wald F,0.5249,,0.7878,,,84,secondary: one clock for all
+e,fs_F_classical_midline,"First stage F on the invitation, midline, composite sample: classical (range over six outcomes in lo to hi)",12.3265,,,12.087,13.1832,102,
+e,fs_F_hc2_midline,"First stage F on the invitation, midline, composite sample: robust HC2 (range over six outcomes in lo to hi)",41.0327,,,40.9235,42.0228,102,robust F exceeds classical because attendance is zero for every never invited person
+e,fs_F_classical_endline,"First stage F on the invitation, endline, composite sample: classical (range over six outcomes in lo to hi)",14.6484,,,14.0058,15.5699,85,
+e,fs_F_hc2_endline,"First stage F on the invitation, endline, composite sample: robust HC2 (range over six outcomes in lo to hi)",37.752,,,37.1658,39.2509,85,robust F exceeds classical because attendance is zero for every never invited person
+f,ri_p_midline_whoqol,"WHOQOL-BREF, midline ITT: randomisation inference p, unstudentised (on the coefficient; value = observed ITT in points; se = Monte Carlo SE of p)",3.9252,0.0011,0.1459,,,102,100000 draws of 91 invited out of 120 (100000 valid); p = (1 + count) / (1 + draws)
+f,ri_p_t_midline_whoqol,"WHOQOL-BREF, midline ITT: randomisation inference p, studentised (on the HC2 t statistic; value = observed t; se = Monte Carlo SE of p). Preferred",1.1777,0.0014,0.2479,,,102,100000 draws (100000 valid); p = (1 + count) / (1 + draws); HC2 p for comparison 0.2417
+f,ri_p_endline_whoqol,"WHOQOL-BREF, endline ITT: randomisation inference p, unstudentised (on the coefficient; value = observed ITT in points; se = Monte Carlo SE of p)",4.6833,8e-4,0.0763,,,85,100000 draws of 91 invited out of 120 (100000 valid); p = (1 + count) / (1 + draws)
+f,ri_p_t_endline_whoqol,"WHOQOL-BREF, endline ITT: randomisation inference p, studentised (on the HC2 t statistic; value = observed t; se = Monte Carlo SE of p). Preferred",1.821,8e-4,0.0782,,,85,100000 draws (100000 valid); p = (1 + count) / (1 + draws); HC2 p for comparison 0.0722
+f,ri_p_midline_environmental,"Environmental, midline ITT: randomisation inference p, unstudentised (on the coefficient; value = observed ITT in points; se = Monte Carlo SE of p)",6.2119,5e-4,0.0296,,,102,100000 draws of 91 invited out of 120 (100000 valid); p = (1 + count) / (1 + draws)
+f,ri_p_t_midline_environmental,"Environmental, midline ITT: randomisation inference p, studentised (on the HC2 t statistic; value = observed t; se = Monte Carlo SE of p). Preferred",1.976,7e-4,0.0537,,,102,100000 draws (100000 valid); p = (1 + count) / (1 + draws); HC2 p for comparison 0.0509
+f,ri_p_endline_environmental,"Environmental, endline ITT: randomisation inference p, unstudentised (on the coefficient; value = observed ITT in points; se = Monte Carlo SE of p)",8.942,3e-4,0.0114,,,85,100000 draws of 91 invited out of 120 (100000 valid); p = (1 + count) / (1 + draws)
+f,ri_p_t_endline_environmental,"Environmental, endline ITT: randomisation inference p, studentised (on the HC2 t statistic; value = observed t; se = Monte Carlo SE of p). Preferred",2.8098,3e-4,0.0081,,,85,100000 draws (100000 valid); p = (1 + count) / (1 + draws); HC2 p for comparison 0.0062
+g,holm_midline_itt_whoqol,"WHOQOL-BREF, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",3.9252,3.3329,0.9669,,,102,unadjusted HC2 p 0.2417
+g,bonf_midline_itt_whoqol,"WHOQOL-BREF, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",3.9252,3.3329,1,,,102,unadjusted HC2 p 0.2417
+g,holm_midline_iv_whoqol,"WHOQOL-BREF, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",10.9825,9.5345,1,,,102,unadjusted HC2 p 0.2521
+g,bonf_midline_iv_whoqol,"WHOQOL-BREF, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",10.9825,9.5345,1,,,102,unadjusted HC2 p 0.2521
+g,holm_endline_itt_whoqol,"WHOQOL-BREF, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",4.6833,2.5718,0.3612,,,85,unadjusted HC2 p 0.0722
+g,bonf_endline_itt_whoqol,"WHOQOL-BREF, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",4.6833,2.5718,0.4335,,,85,unadjusted HC2 p 0.0722
+g,holm_endline_iv_whoqol,"WHOQOL-BREF, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",11.8075,6.5344,0.3722,,,85,unadjusted HC2 p 0.0744
+g,bonf_endline_iv_whoqol,"WHOQOL-BREF, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",11.8075,6.5344,0.4466,,,85,unadjusted HC2 p 0.0744
+g,holm_midline_itt_general,"General, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",4.1616,4.5745,0.9669,,,102,unadjusted HC2 p 0.3652
+g,bonf_midline_itt_general,"General, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",4.1616,4.5745,1,,,102,unadjusted HC2 p 0.3652
+g,holm_midline_iv_general,"General, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",11.7629,13.1225,1,,,102,unadjusted HC2 p 0.3722
+g,bonf_midline_iv_general,"General, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",11.7629,13.1225,1,,,102,unadjusted HC2 p 0.3722
+g,holm_endline_itt_general,"General, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",5.7399,3.92,0.5878,,,85,unadjusted HC2 p 0.1469
+g,bonf_endline_itt_general,"General, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",5.7399,3.92,0.8817,,,85,unadjusted HC2 p 0.1469
+g,holm_endline_iv_general,"General, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",14.8034,10.4696,0.6447,,,85,unadjusted HC2 p 0.1612
+g,bonf_endline_iv_general,"General, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",14.8034,10.4696,0.967,,,85,unadjusted HC2 p 0.1612
+g,holm_midline_itt_physical,"Physical, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",4.2865,3.9829,0.9669,,,102,unadjusted HC2 p 0.2845
+g,bonf_midline_itt_physical,"Physical, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",4.2865,3.9829,1,,,102,unadjusted HC2 p 0.2845
+g,holm_midline_iv_physical,"Physical, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",12.1784,11.6085,1,,,102,unadjusted HC2 p 0.2967
+g,bonf_midline_iv_physical,"Physical, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",12.1784,11.6085,1,,,102,unadjusted HC2 p 0.2967
+g,holm_endline_itt_physical,"Physical, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",3.2633,3.007,0.843,,,85,unadjusted HC2 p 0.2810
+g,bonf_endline_itt_physical,"Physical, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",3.2633,3.007,1,,,85,unadjusted HC2 p 0.2810
+g,holm_endline_iv_physical,"Physical, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",8.3859,7.8191,0.8599,,,85,unadjusted HC2 p 0.2866
+g,bonf_endline_iv_physical,"Physical, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",8.3859,7.8191,1,,,85,unadjusted HC2 p 0.2866
+g,holm_midline_itt_psychological,"Psychological, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",0.5362,3.9917,0.9669,,,102,unadjusted HC2 p 0.8934
+g,bonf_midline_itt_psychological,"Psychological, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",0.5362,3.9917,1,,,102,unadjusted HC2 p 0.8934
+g,holm_midline_iv_psychological,"Psychological, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",1.4464,10.7689,1,,,102,unadjusted HC2 p 0.8934
+g,bonf_midline_iv_psychological,"Psychological, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",1.4464,10.7689,1,,,102,unadjusted HC2 p 0.8934
+g,holm_endline_itt_psychological,"Psychological, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",3.1064,3.2959,0.843,,,85,unadjusted HC2 p 0.3487
+g,bonf_endline_itt_psychological,"Psychological, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",3.1064,3.2959,1,,,85,unadjusted HC2 p 0.3487
+g,holm_endline_iv_psychological,"Psychological, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",7.6361,8.0106,0.8599,,,85,unadjusted HC2 p 0.3433
+g,bonf_endline_iv_psychological,"Psychological, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",7.6361,8.0106,1,,,85,unadjusted HC2 p 0.3433
+g,holm_midline_itt_social,"Social, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",6.7808,4.691,0.7574,,,102,unadjusted HC2 p 0.1515
+g,bonf_midline_itt_social,"Social, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",6.7808,4.691,0.9088,,,102,unadjusted HC2 p 0.1515
+g,holm_midline_iv_social,"Social, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",18.7642,13.3766,0.8191,,,102,unadjusted HC2 p 0.1638
+g,bonf_midline_iv_social,"Social, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",18.7642,13.3766,0.9829,,,102,unadjusted HC2 p 0.1638
+g,holm_endline_itt_social,"Social, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",2.6869,3.6168,0.843,,,85,unadjusted HC2 p 0.4597
+g,bonf_endline_itt_social,"Social, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",2.6869,3.6168,1,,,85,unadjusted HC2 p 0.4597
+g,holm_endline_iv_social,"Social, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",6.7969,9.1555,0.8599,,,85,unadjusted HC2 p 0.4600
+g,bonf_endline_iv_social,"Social, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",6.7969,9.1555,1,,,85,unadjusted HC2 p 0.4600
+g,holm_midline_itt_environmental,"Environmental, midline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",6.2119,3.1437,0.3056,,,102,unadjusted HC2 p 0.0509
+g,bonf_midline_itt_environmental,"Environmental, midline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",6.2119,3.1437,0.3056,,,102,unadjusted HC2 p 0.0509
+g,holm_midline_iv_environmental,"Environmental, midline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",17.4832,9.2741,0.374,,,102,unadjusted HC2 p 0.0623
+g,bonf_midline_iv_environmental,"Environmental, midline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",17.4832,9.2741,0.374,,,102,unadjusted HC2 p 0.0623
+g,holm_endline_itt_environmental,"Environmental, endline ITT: Holm adjusted p over six outcomes (p column; value = estimate in points)",8.942,3.1825,0.0372,,,85,unadjusted HC2 p 0.0062
+g,bonf_endline_itt_environmental,"Environmental, endline ITT: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",8.942,3.1825,0.0372,,,85,unadjusted HC2 p 0.0062
+g,holm_endline_iv_environmental,"Environmental, endline IV: Holm adjusted p over six outcomes (p column; value = estimate in points)",22.9885,8.2799,0.0408,,,85,unadjusted HC2 p 0.0068
+g,bonf_endline_iv_environmental,"Environmental, endline IV: Bonferroni adjusted p over six outcomes (p column; value = estimate in points)",22.9885,8.2799,0.0408,,,85,unadjusted HC2 p 0.0068
+h,excl_nonatt_vs_never_whoqol,"WHOQOL-BREF endline: invited not attending (n 38) minus never invited (n 23), ANCOVA, HC2",2.6637,2.8585,0.3553,-3.0582,8.3857,61,SELF SELECTED comparison: suggestive only
+h,excl_zero_days_vs_never_whoqol,"WHOQOL-BREF endline: invited with zero days (n 32) minus never invited (n 23), ANCOVA, HC2",1.6341,2.9492,0.5819,-4.2839,7.5521,55,SELF SELECTED comparison: suggestive only
+h,excl_nonatt_vs_never_environmental,"Environmental endline: invited not attending (n 38) minus never invited (n 23), ANCOVA, HC2",4.9354,3.4267,0.1552,-1.9238,11.7947,61,SELF SELECTED comparison: suggestive only
+h,excl_zero_days_vs_never_environmental,"Environmental endline: invited with zero days (n 32) minus never invited (n 23), ANCOVA, HC2",3.6032,3.5896,0.3201,-3.5997,10.8062,55,SELF SELECTED comparison: suggestive only
+i,pre_invitation_n_file_dates,Invited people surveyed at midline before their round's FILE date (upper count; rounds 7 and 8 dated by script save dates),4,,,,,79,"by round: 7 x 1, 8 x 3. Depends on the script save dates, which the register contradicts; do not state as fact until IMSS confirms rounds 7 and 8"
+i,pre_invitation_n_register_bound,Invited people surveyed at midline before the register bound of their round (at most this many; lower count),1,,,,,79,by round: 8 x 1. Register bound = the earlier of the file date and the first attendance of any invitee of the round; 0 if the round was earlier still
+i,pre_invitation_late_entrants_n_file_dates,"Of the upper count, invited late entrants (entered the centre after their midline survey)",2,,,,,4,
+i,pre_invitation_late_entrants_n_register_bound,"Of the lower count, invited late entrants (entered the centre after their midline survey)",1,,,,,1,
+i,late_baseline_n,"Invited in round 1, baseline dated after round 1 (2 January 2023, to confirm); in the midline sample",1,,,,,,not in the endline sample
+i,r78_entrants_before_file_date,Round 7 and 8 invitees who ever attended: number whose FIRST attendance precedes their round's script save date,4,,,,,4,n = round 7 and 8 invitees with any attendance (4 of 6 invitees)
+i,r78_more_than_5_days_before_file_date,Round 7 and 8 invitees with more than five days attended before their round's script save date,4,,,,,6,
+i,register_round_disagrees_n,Invited people whose round in the register's Ronda column differs from t_pm.csv (blank counted as differing),3,,,,,91,"all are t_pm round 8 invitees (3): 2 labelled round 7 in the register, 1 blank; rounds 1 to 7 agree"
+i,mid_pre_file_itt_whoqol,"WHOQOL-BREF, midline ITT without the 4 surveyed before their round's file date, the upper count (HC2)",3.4892,3.3694,0.303,-3.1999,10.1783,98,
+i,mid_pre_file_iv_whoqol,"WHOQOL-BREF, midline IV without the 4 surveyed before their round's file date, the upper count (HC2)",9.2004,9.0192,0.3103,-8.705,27.1057,98,
+i,mid_pre_reg_itt_whoqol,"WHOQOL-BREF, midline ITT without the 1 surveyed before their round's register bound, the lower count (HC2)",3.7982,3.3417,0.2585,-2.8333,10.4297,101,
+i,mid_pre_reg_iv_whoqol,"WHOQOL-BREF, midline IV without the 1 surveyed before their round's register bound, the lower count (HC2)",10.4724,9.4009,0.268,-8.1833,29.1281,101,
+i,mid_late_itt_whoqol,"WHOQOL-BREF, midline ITT without the round 1 invitee with a late baseline (HC2)",4.0342,3.3483,0.2312,-2.6104,10.6787,101,
+i,mid_late_iv_whoqol,"WHOQOL-BREF, midline IV without the round 1 invitee with a late baseline (HC2)",11.1029,9.4333,0.2421,-7.6172,29.8231,101,
+i,mid_both_file_itt_whoqol,"WHOQOL-BREF, midline ITT without the upper count and the late baseline (5 people) (HC2)",3.5956,3.3874,0.2912,-3.1302,10.3214,97,
+i,mid_both_file_iv_whoqol,"WHOQOL-BREF, midline IV without the upper count and the late baseline (5 people) (HC2)",9.3106,8.9125,0.2989,-8.3854,27.0066,97,
+i,mid_both_reg_itt_whoqol,"WHOQOL-BREF, midline ITT without the lower count and the late baseline (2 people) (HC2)",3.9063,3.3577,0.2475,-2.7579,10.5704,100,
+i,mid_both_reg_iv_whoqol,"WHOQOL-BREF, midline IV without the lower count and the late baseline (2 people) (HC2)",10.5902,9.2982,0.2575,-7.8641,29.0446,100,
+i,mid_pre_file_itt_environmental,"Environmental, midline ITT without the 4 surveyed before their round's file date, the upper count (HC2)",5.8586,3.1778,0.0684,-0.4501,12.1674,98,
+i,mid_pre_file_iv_environmental,"Environmental, midline IV without the 4 surveyed before their round's file date, the upper count (HC2)",15.5995,8.7733,0.0786,-1.8177,33.0166,98,
+i,mid_pre_reg_itt_environmental,"Environmental, midline ITT without the 1 surveyed before their round's register bound, the lower count (HC2)",6.0689,3.1469,0.0567,-0.1761,12.3139,101,
+i,mid_pre_reg_iv_environmental,"Environmental, midline IV without the 1 surveyed before their round's register bound, the lower count (HC2)",16.8717,9.1412,0.068,-1.2686,35.0121,101,
+i,mid_late_itt_environmental,"Environmental, midline ITT without the round 1 invitee with a late baseline (HC2)",6.2103,3.1562,0.0519,-0.053,12.4736,101,
+i,mid_late_iv_environmental,"Environmental, midline IV without the round 1 invitee with a late baseline (HC2)",17.2226,9.1608,0.0631,-0.9566,35.4019,101,
+i,mid_both_file_itt_environmental,"Environmental, midline ITT without the upper count and the late baseline (5 people) (HC2)",5.8511,3.1926,0.07,-0.4879,12.1902,97,
+i,mid_both_file_iv_environmental,"Environmental, midline IV without the upper count and the late baseline (5 people) (HC2)",15.3301,8.6581,0.0799,-1.8609,32.521,97,
+i,mid_both_reg_itt_environmental,"Environmental, midline ITT without the lower count and the late baseline (2 people) (HC2)",6.0655,3.1595,0.0578,-0.2053,12.3364,100,
+i,mid_both_reg_iv_environmental,"Environmental, midline IV without the lower count and the late baseline (2 people) (HC2)",16.6137,9.0288,0.0688,-1.306,34.5333,100,
+i,no_r78_midline_itt_whoqol,"WHOQOL-BREF, midline ITT without the round 7 and 8 invitees (5 in this sample; HC2)",3.0283,3.3568,0.3693,-3.6368,9.6933,97,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_midline_iv_whoqol,"WHOQOL-BREF, midline IV without the round 7 and 8 invitees (5 in this sample; HC2)",8.2091,9.2471,0.3769,-10.1512,26.5694,97,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_endline_itt_whoqol,"WHOQOL-BREF, endline ITT without the round 7 and 8 invitees (3 in this sample; HC2)",4.5354,2.588,0.0836,-0.616,9.6867,82,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_endline_iv_whoqol,"WHOQOL-BREF, endline IV without the round 7 and 8 invitees (3 in this sample; HC2)",11.3569,6.5197,0.0854,-1.6202,24.3339,82,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_midline_itt_environmental,"Environmental, midline ITT without the round 7 and 8 invitees (5 in this sample; HC2)",5.593,3.1754,0.0814,-0.7119,11.8979,97,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_midline_iv_environmental,"Environmental, midline IV without the round 7 and 8 invitees (5 in this sample; HC2)",15.2608,9.0061,0.0935,-2.621,33.1427,97,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_endline_itt_environmental,"Environmental, endline ITT without the round 7 and 8 invitees (3 in this sample; HC2)",9.4895,3.1929,0.0039,3.1342,15.8448,82,invited in rounds 1 to 6 against never invited: still randomised
+i,no_r78_endline_iv_environmental,"Environmental, endline IV without the round 7 and 8 invitees (3 in this sample; HC2)",24.224,8.333,0.0047,7.6376,40.8103,82,invited in rounds 1 to 6 against never invited: still randomised
+j,dcb_S_list,Takers in the whole waiting list: attended more than five days anywhere in the register (all 120),33,,,,,,
+j,dcb_midline_itt_whoqol_Slist,"WHOQOL-BREF, midline ITT with the waiting list weight, S = 33 (list)",3.9373,3.3334,0.2404,-2.6769,10.5515,102,weight (S minus 1)/S on 31 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_midline_iv_whoqol_Slist,"WHOQOL-BREF, midline IV with the waiting list weight, S = 33 (list)",11.2214,9.7176,0.251,-8.0605,30.5032,102,weight (S minus 1)/S on 31 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_midline_itt_whoqol_Ssample,"WHOQOL-BREF, midline ITT with the waiting list weight, S = 28 (sample)",3.9434,3.3321,0.2395,-2.6682,10.555,102,weight (S minus 1)/S on 28 invited takers in this sample (more than five days by this survey)
+j,dcb_midline_iv_whoqol_Ssample,"WHOQOL-BREF, midline IV with the waiting list weight, S = 28 (sample)",11.2959,9.7657,0.2502,-8.0814,30.6731,102,weight (S minus 1)/S on 28 invited takers in this sample (more than five days by this survey)
+j,dcb_endline_itt_whoqol_Slist,"WHOQOL-BREF, endline ITT with the waiting list weight, S = 33 (list)",4.6457,2.5739,0.0748,-0.4745,9.7659,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_endline_iv_whoqol_Slist,"WHOQOL-BREF, endline IV with the waiting list weight, S = 33 (list)",11.9327,6.6645,0.0771,-1.3252,25.1905,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_endline_itt_whoqol_Ssample,"WHOQOL-BREF, endline ITT with the waiting list weight, S = 24 (sample)",4.6314,2.5747,0.0757,-0.4905,9.7533,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days by this survey)
+j,dcb_endline_iv_whoqol_Ssample,"WHOQOL-BREF, endline IV with the waiting list weight, S = 24 (sample)",11.9817,6.7155,0.0781,-1.3776,25.341,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days by this survey)
+j,dcb_midline_itt_environmental_Slist,"Environmental, midline ITT with the waiting list weight, S = 33 (list)",6.2158,3.143,0.0507,-0.0206,12.4522,102,weight (S minus 1)/S on 31 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_midline_iv_environmental_Slist,"Environmental, midline IV with the waiting list weight, S = 33 (list)",17.8242,9.4559,0.0624,-0.9385,36.5868,102,weight (S minus 1)/S on 31 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_midline_itt_environmental_Ssample,"Environmental, midline ITT with the waiting list weight, S = 28 (sample)",6.2202,3.1423,0.0505,-0.0149,12.4553,102,weight (S minus 1)/S on 28 invited takers in this sample (more than five days by this survey)
+j,dcb_midline_iv_environmental_Ssample,"Environmental, midline IV with the waiting list weight, S = 28 (sample)",17.9249,9.505,0.0622,-0.935,36.7848,102,weight (S minus 1)/S on 28 invited takers in this sample (more than five days by this survey)
+j,dcb_endline_itt_environmental_Slist,"Environmental, endline ITT with the waiting list weight, S = 33 (list)",8.8671,3.1829,0.0066,2.5353,15.199,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_endline_iv_environmental_Slist,"Environmental, endline IV with the waiting list weight, S = 33 (list)",23.2301,8.4473,0.0073,6.4258,40.0344,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days anywhere in the register)
+j,dcb_endline_itt_environmental_Ssample,"Environmental, endline ITT with the waiting list weight, S = 24 (sample)",8.8386,3.1831,0.0068,2.5063,15.1708,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days by this survey)
+j,dcb_endline_iv_environmental_Ssample,"Environmental, endline IV with the waiting list weight, S = 24 (sample)",23.3246,8.5129,0.0075,6.3898,40.2595,85,weight (S minus 1)/S on 24 invited takers in this sample (more than five days by this survey)
+k,attrition_midline_attended,"Per cent not surveyed at midline, attended (more than five days anywhere in the register) (value = per cent; n = group size)",6.0606,,,,,33,"2 of 33; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_midline_invited_not_attending,"Per cent not surveyed at midline, invited not attending (five days or fewer in the whole register) (value = per cent; n = group size)",17.2414,,,,,58,"10 of 58; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_midline_never_invited,"Per cent not surveyed at midline, never invited (value = per cent; n = group size)",20.6897,,,,,29,"6 of 29; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_midline_group_fisher,Attrition at midline across the three groups (attended = more than five days anywhere in the register): Fisher exact p,,,0.1874,,,120,"groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_midline_arm_invited,"Per cent not surveyed at midline, invited arm (value = per cent; n = arm size)",13.1868,,,,,91,12 of 91
+k,attrition_midline_arm_never_invited,"Per cent not surveyed at midline, never invited arm (value = per cent; n = arm size)",20.6897,,,,,29,6 of 29
+k,attrition_midline_arm_fisher,Attrition at midline by arm: Fisher exact p,,,0.3727,,,120,
+k,attrition_endline_attended,"Per cent not surveyed at endline, attended (more than five days anywhere in the register) (value = per cent; n = group size)",27.2727,,,,,33,"9 of 33; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_endline_invited_not_attending,"Per cent not surveyed at endline, invited not attending (five days or fewer in the whole register) (value = per cent; n = group size)",34.4828,,,,,58,"20 of 58; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_endline_never_invited,"Per cent not surveyed at endline, never invited (value = per cent; n = group size)",20.6897,,,,,29,"6 of 29; groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_endline_group_fisher,Attrition at endline across the three groups (attended = more than five days anywhere in the register): Fisher exact p,,,0.3999,,,120,"groups by attendance more than five days anywhere in the register, 18 January 2023 to 16 February 2024, not by the survey"
+k,attrition_endline_arm_invited,"Per cent not surveyed at endline, invited arm (value = per cent; n = arm size)",31.8681,,,,,91,29 of 91
+k,attrition_endline_arm_never_invited,"Per cent not surveyed at endline, never invited arm (value = per cent; n = arm size)",20.6897,,,,,29,6 of 29
+k,attrition_endline_arm_fisher,Attrition at endline by arm: Fisher exact p,,,0.3486,,,120,
+k,attended_whole_register_n,Invited people who attended more than five days anywhere in the register (the attended group of this section),33,,,,,91,"of them, 2 had no midline survey and 9 no endline survey; 3 of those surveyed at midline had not yet attended more than five days by it"
+l,subst_baseline_all,"Caregiver item 06.05, Baseline, all 120 people: attends a day centre, club or community space (value = yes; n = answered)",7,,,,,119,119 of the 120 people in the group answered
+l,subst_baseline_never,"Caregiver item 06.05, Baseline, never invited: attends a day centre, club or community space (value = yes; n = answered)",1,,,,,29,29 of the 29 people in the group answered
+l,subst_midline_never,"Caregiver item 06.05, Midline sample, never invited: another place ('Si, otro'): attends a day centre, club or community space (value = yes; n = answered)",2,,,,,20,20 of the 23 people in the group answered
+l,subst_midline_invited_not_attending,"Caregiver item 06.05, Midline sample, invited not attending: another place ('Si, otro'): attends a day centre, club or community space (value = yes; n = answered)",0,,,,,45,45 of the 51 people in the group answered
+l,subst_endline_never,"Caregiver item 06.05, Endline sample, never invited: yes (another place): attends a day centre, club or community space (value = yes; n = answered)",1,,,,,23,23 of the 23 people in the group answered
+l,subst_endline_invited_not_attending,"Caregiver item 06.05, Endline sample, invited not attending: yes (place not stated; descriptive only): attends a day centre, club or community space (value = yes; n = answered)",5,,,,,38,38 of the 38 people in the group answered
+l,register_days_operation,Days of operation in the centre's attendance register (one column per day),223,,,,,223,"first day 18 January 2023, last day 16 February 2024; days with at least one person attending: 216"
+l,register_people_per_day,"People attending per day of operation, register: mean (range in lo to hi)",15.287,,,0,26,223,"median 16; every register row counted, study participant or not"
+l,loo_soc_endline_whoqol_itt,"WHOQOL-BREF endline ITT with the sociodemographic covariates of Table A.8, column (c), dropping one covariate at a time: range of the six p values in lo to hi (value = number of models)",6,,,0.1407,0.2208,85,"estimates 3.50 to 4.10 points; with all six covariates 3.54 points, p 0.214"
+l,loo_soc_endline_whoqol_iv,"WHOQOL-BREF endline IV with the sociodemographic covariates of Table A.8, column (c), dropping one covariate at a time: range of the six p values in lo to hi (value = number of models)",6,,,0.1456,0.2217,85,"estimates 9.18 to 10.69 points; with all six covariates 9.58 points, p 0.217"
+l,whoqol_missing_items,WHOQOL-BREF items missing in the surveys held (value = items missing; n = surveys),0,,,,,307,26 items per survey; the WHO missing item rules of 00_data.R never bind

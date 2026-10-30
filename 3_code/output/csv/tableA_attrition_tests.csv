@@ -1,0 +1,11 @@
+wave,test,p_fisher,p_chisq_uncorrected
+Midline,Three groups,0.1874,0.2195
+Midline,"Attended versus invited, did not attend",0.199,0.1296
+Midline,Attended versus never invited,0.1314,0.0864
+Midline,"Invited, did not attend versus never invited",0.7717,0.6955
+Midline,By arm: invited versus never invited,0.3727,0.3244
+Endline,Three groups,0.3999,0.3947
+Endline,"Attended versus invited, did not attend",0.6403,0.4779
+Endline,Attended versus never invited,0.5701,0.5459
+Endline,"Invited, did not attend versus never invited",0.2212,0.1852
+Endline,By arm: invited versus never invited,0.3486,0.2488

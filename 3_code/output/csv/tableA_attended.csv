@@ -1,0 +1,31 @@
+panel,n_sample,variable,type,test,n1,n0,mean1,mean0,diff,p,p_fisher,p_chisq_uncorrected
+"Panel A. All invited people, whole register",91,Age at baseline (years),num,Welch t-test,33,58,81.1646,79.7517,1.4129,0.3572,NA,NA
+"Panel A. All invited people, whole register",91,People living with the older adult,num,Welch t-test,33,58,3.0606,2.7414,0.3192,0.4175,NA,NA
+"Panel A. All invited people, whole register",91,Education (1 to 10),num,Welch t-test,33,58,3.5758,4.0517,-0.476,0.2184,NA,NA
+"Panel A. All invited people, whole register",91,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,32,58,3.4062,3.7931,-0.3869,0.4734,NA,NA
+"Panel A. All invited people, whole register",91,"Independence (Katz, 0 to 6)",num,Welch t-test,32,58,5.2188,5.4138,-0.195,0.4981,NA,NA
+"Panel A. All invited people, whole register",91,Female (%),bin,chi-squared,33,58,75.7576,77.5862,-1.8286,1,1,0.8422
+"Panel A. All invited people, whole register",91,Indigenous (%),bin,chi-squared,33,58,27.2727,25.8621,1.4107,1,1,0.8833
+"Panel A. All invited people, whole register",91,Cared for by a son or daughter (%),bin,chi-squared,32,58,68.75,77.5862,-8.8362,0.5044,0.4501,0.3576
+"Panel A. All invited people, whole register",91,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,33,58,55.4779,58.0902,-2.6123,0.3419,NA,NA
+"Panel A. All invited people, whole register",91,Environmental domain at baseline (0 to 100),num,Welch t-test,33,58,55.9659,57.3276,-1.3617,0.5658,NA,NA
+Panel B. Invited people in the midline sample,79,Age at baseline (years),num,Welch t-test,28,51,80.201,79.0171,1.184,0.4609,NA,NA
+Panel B. Invited people in the midline sample,79,People living with the older adult,num,Welch t-test,28,51,3.1071,2.6275,0.4797,0.2534,NA,NA
+Panel B. Invited people in the midline sample,79,Education (1 to 10),num,Welch t-test,28,51,3.6786,3.9804,-0.3018,0.4831,NA,NA
+Panel B. Invited people in the midline sample,79,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,27,51,3.5926,4.0392,-0.4466,0.4491,NA,NA
+Panel B. Invited people in the midline sample,79,"Independence (Katz, 0 to 6)",num,Welch t-test,27,51,5.4444,5.4314,0.0131,0.9602,NA,NA
+Panel B. Invited people in the midline sample,79,Female (%),bin,chi-squared,28,51,71.4286,82.3529,-10.9244,0.3987,0.269,0.2584
+Panel B. Invited people in the midline sample,79,Indigenous (%),bin,chi-squared,28,51,21.4286,27.451,-6.0224,0.7502,0.6012,0.556
+Panel B. Invited people in the midline sample,79,Cared for by a son or daughter (%),bin,chi-squared,27,51,66.6667,80.3922,-13.7255,0.2863,0.267,0.1791
+Panel B. Invited people in the midline sample,79,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,28,51,56.7651,57.5792,-0.8141,0.7896,NA,NA
+Panel B. Invited people in the midline sample,79,Environmental domain at baseline (0 to 100),num,Welch t-test,28,51,56.3616,56.7402,-0.3786,0.882,NA,NA
+Panel C. Invited people in the endline sample,62,Age at baseline (years),num,Welch t-test,24,38,80.111,79.5796,0.5314,0.7606,NA,NA
+Panel C. Invited people in the endline sample,62,People living with the older adult,num,Welch t-test,24,38,3.0833,2.5789,0.5044,0.272,NA,NA
+Panel C. Invited people in the endline sample,62,Education (1 to 10),num,Welch t-test,24,38,3.625,4.0526,-0.4276,0.3763,NA,NA
+Panel C. Invited people in the endline sample,62,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,23,38,3.4783,4.2895,-0.8112,0.2164,NA,NA
+Panel C. Invited people in the endline sample,62,"Independence (Katz, 0 to 6)",num,Welch t-test,23,38,5.6087,5.4737,0.135,0.5568,NA,NA
+Panel C. Invited people in the endline sample,62,Female (%),bin,chi-squared,24,38,70.8333,78.9474,-8.114,0.6728,0.5483,0.4674
+Panel C. Invited people in the endline sample,62,Indigenous (%),bin,chi-squared,24,38,16.6667,31.5789,-14.9123,0.3129,0.2421,0.1912
+Panel C. Invited people in the endline sample,62,Cared for by a son or daughter (%),bin,chi-squared,23,38,69.5652,81.5789,-12.0137,0.4429,0.3511,0.2795
+Panel C. Invited people in the endline sample,62,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,24,38,55.2083,57.9706,-2.7623,0.4087,NA,NA
+Panel C. Invited people in the endline sample,62,Environmental domain at baseline (0 to 100),num,Welch t-test,24,38,55.2083,57.1546,-1.9463,0.4885,NA,NA

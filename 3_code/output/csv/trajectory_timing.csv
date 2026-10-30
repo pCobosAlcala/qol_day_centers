@@ -1,0 +1,7 @@
+sample,group,n,months_baseline_to_midline,months_baseline_to_endline,months_entry_to_midline,months_entry_to_endline
+all three waves (n = 82),Never invited,21,6,11.4,NA,NA
+all three waves (n = 82),"Invited, did not attend",37,6.3,11.5,NA,NA
+all three waves (n = 82),Attended,24,6.3,12.1,3.5,9.3
+baseline and endline (n = 85),Never invited,23,NA,11.4,NA,NA
+baseline and endline (n = 85),"Invited, did not attend",38,NA,11.5,NA,NA
+baseline and endline (n = 85),Attended,24,NA,12.1,NA,9.3

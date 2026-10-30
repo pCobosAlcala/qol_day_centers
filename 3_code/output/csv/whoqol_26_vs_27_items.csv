@@ -1,0 +1,5 @@
+version,wave,n,baseline_mean,baseline_sd,itt,itt_se,itt_p,iv,iv_se,iv_p,itt_sd,corr_26_27_all_surveys,surveys
+"26 items (standard, used)",midline,102,56.5517,12.7345,3.9252,3.3329,0.2417,10.9825,9.5345,0.2521,0.3082,0.9974,307
+"26 items (standard, used)",endline,85,56.0294,12.8614,4.6833,2.5718,0.0722,11.8075,6.5344,0.0744,0.3641,0.9974,307
+27 items (submitted),midline,102,56.8174,12.5489,4.2537,3.24,0.1923,11.9427,9.3549,0.2047,0.339,0.9974,307
+27 items (submitted),endline,85,56.2092,12.5329,4.8974,2.58,0.0612,12.4016,6.6064,0.064,0.3908,0.9974,307

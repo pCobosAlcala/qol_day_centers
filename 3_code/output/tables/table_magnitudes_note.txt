@@ -1,0 +1,3 @@
+How large are the effects
+
+Each cell gives a change as a per cent of the control group's own baseline mean on the WHO 0 to 100 scale, then in parentheses the same change in points of that scale and in standard deviations of the baseline outcome in the same sample. 'Control group' is how much that group changed over the period, without the programme. 'Invited' and 'Attending' are the ITT and IV estimates of Table 3. Months are counted from entry to the centre for those attending; those not attending were surveyed about six months and a year after baseline. Reading the endline row for WHOQOL-BREF: the control group's score fell by 10.0 per cent of its baseline mean of 53.7 points, and the invitation raised scores by 8.7 per cent of that baseline (4.7 points).

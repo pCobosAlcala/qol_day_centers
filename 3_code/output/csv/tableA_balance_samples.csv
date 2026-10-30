@@ -1,0 +1,31 @@
+panel,n_sample,variable,type,test,n1,n0,mean1,mean0,diff,p,p_fisher,p_chisq_uncorrected
+Panel A. Midline sample (baseline and midline observed),102,Age at baseline (years),num,Welch t-test,79,23,79.4367,79.8812,-0.4445,0.7956,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,People living with the older adult,num,Welch t-test,79,23,2.7975,2.8696,-0.0721,0.8697,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,Education (1 to 10),num,Welch t-test,79,23,3.8734,3.6957,0.1778,0.6957,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,78,23,3.8846,3.8696,0.0151,0.9767,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,"Independence (Katz, 0 to 6)",num,Welch t-test,78,23,5.4359,5.5217,-0.0858,0.7311,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,Female (%),bin,chi-squared,79,23,78.481,69.5652,8.9158,0.5433,0.408,0.375
+Panel A. Midline sample (baseline and midline observed),102,Indigenous (%),bin,chi-squared,79,23,25.3165,47.8261,-22.5096,0.0706,0.0691,0.0389
+Panel A. Midline sample (baseline and midline observed),102,Cared for by a son or daughter (%),bin,chi-squared,78,23,75.641,86.9565,-11.3155,0.3854,0.3888,0.2479
+Panel A. Midline sample (baseline and midline observed),102,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,79,23,57.2907,54.0134,3.2773,0.3099,NA,NA
+Panel A. Midline sample (baseline and midline observed),102,Environmental domain at baseline (0 to 100),num,Welch t-test,79,23,56.606,54.7554,1.8506,0.5618,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,Age at baseline (years),num,Welch t-test,62,23,79.7853,79.6701,0.1152,0.9448,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,People living with the older adult,num,Welch t-test,62,23,2.7742,3,-0.2258,0.6131,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,Education (1 to 10),num,Welch t-test,62,23,3.8871000000000002,3.3478,0.5393,0.179,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,61,23,3.9836,3.8261,0.1575,0.773,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,"Independence (Katz, 0 to 6)",num,Welch t-test,61,23,5.5246,5.5652,-0.0406,0.8705,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,Female (%),bin,chi-squared,62,23,75.8065,73.913,1.8934,1,1,0.8573
+Panel B. Endline sample (baseline and endline observed),85,Indigenous (%),bin,chi-squared,62,23,25.8065,47.8261,-22.0196,0.0939,0.0682,0.0527
+Panel B. Endline sample (baseline and endline observed),85,Cared for by a son or daughter (%),bin,chi-squared,61,23,77.0492,86.9565,-9.9073,0.4819,0.3778,0.3136
+Panel B. Endline sample (baseline and endline observed),85,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,62,23,56.9014,53.6789,3.2224,0.3309,NA,NA
+Panel B. Endline sample (baseline and endline observed),85,Environmental domain at baseline (0 to 100),num,Welch t-test,62,23,56.4012,55.5707,0.8306,0.8089,NA,NA
+Panel C. Observed at all three waves,82,Age at baseline (years),num,Welch t-test,61,21,79.9001,79.4737,0.4264,0.8054,NA,NA
+Panel C. Observed at all three waves,82,People living with the older adult,num,Welch t-test,61,21,2.7377,3,-0.2623,0.5813,NA,NA
+Panel C. Observed at all three waves,82,Education (1 to 10),num,Welch t-test,61,21,3.8689,3.381,0.4879,0.2524,NA,NA
+Panel C. Observed at all three waves,82,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,60,21,4,3.9524,0.0476,0.9332,NA,NA
+Panel C. Observed at all three waves,82,"Independence (Katz, 0 to 6)",num,Welch t-test,60,21,5.5167,5.5238,-0.0071,0.9787,NA,NA
+Panel C. Observed at all three waves,82,Female (%),bin,chi-squared,61,21,77.0492,71.4286,5.6206,0.8237,0.7688,0.6049
+Panel C. Observed at all three waves,82,Indigenous (%),bin,chi-squared,61,21,24.5902,47.619,-23.0289,0.0887,0.0587,0.048
+Panel C. Observed at all three waves,82,Cared for by a son or daughter (%),bin,chi-squared,60,21,76.6667,90.4762,-13.8095,0.2939,0.2168,0.1713
+Panel C. Observed at all three waves,82,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,61,21,56.7308,52.5183,4.2125,0.2142,NA,NA
+Panel C. Observed at all three waves,82,Environmental domain at baseline (0 to 100),num,Welch t-test,61,21,56.3012,54.3155,1.9858,0.5703,NA,NA

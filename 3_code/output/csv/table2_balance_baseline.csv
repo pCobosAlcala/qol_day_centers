@@ -1,0 +1,21 @@
+sample,variable,type,test,n1,n0,mean1,mean0,diff,p,p_fisher,p_chisq_uncorrected
+All interviewed at baseline,Age at baseline (years),num,Welch t-test,91,29,80.2641,80.5266,-0.2625,0.8601,NA,NA
+All interviewed at baseline,People living with the older adult,num,Welch t-test,91,29,2.8571,2.8621,-0.0049,0.9899,NA,NA
+All interviewed at baseline,Education (1 to 10),num,Welch t-test,91,29,3.8791,3.6897,0.1895,0.6196,NA,NA
+All interviewed at baseline,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,90,29,3.6556,3.7931,-0.1375,0.7636,NA,NA
+All interviewed at baseline,"Independence (Katz, 0 to 6)",num,Welch t-test,90,29,5.3444,5.5862,-0.2418,0.2709,NA,NA
+All interviewed at baseline,Female (%),bin,chi-squared,91,29,76.9231,68.9655,7.9576,0.5382,0.4612,0.3888
+All interviewed at baseline,Indigenous (%),bin,chi-squared,91,29,26.3736,44.8276,-18.454,0.1004,0.069,0.0609
+All interviewed at baseline,Cared for by a son or daughter (%),bin,chi-squared,90,29,74.4444,82.7586,-8.3142,0.5053,0.4549,0.3587
+All interviewed at baseline,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,91,29,57.1429,56.0013,1.1415,0.6819,NA,NA
+All interviewed at baseline,Environmental domain at baseline (0 to 100),num,Welch t-test,91,29,56.8338,57.1121,-0.2783,0.9213,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,Age at baseline (years),num,Welch t-test,90,29,80.275,80.5266,-0.2516,0.8663,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,People living with the older adult,num,Welch t-test,90,29,2.8778,2.8621,0.0157,0.9679,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,Education (1 to 10),num,Welch t-test,90,29,3.8889,3.6897,0.1992,0.6028,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,"Autonomy (Lawton, 0 to 8)",num,Welch t-test,89,29,3.6517,3.7931,-0.1414,0.7579,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,"Independence (Katz, 0 to 6)",num,Welch t-test,89,29,5.3596,5.5862,-0.2267,0.3024,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,Female (%),bin,chi-squared,90,29,76.6667,68.9655,7.7011,0.5587,0.463,0.4062
+Timing check: excluding 1 invited with baseline dated after round 1,Indigenous (%),bin,chi-squared,90,29,26.6667,44.8276,-18.1609,0.1081,0.1049,0.0661
+Timing check: excluding 1 invited with baseline dated after round 1,Cared for by a son or daughter (%),bin,chi-squared,89,29,74.1573,82.7586,-8.6013,0.4875,0.4538,0.3444
+Timing check: excluding 1 invited with baseline dated after round 1,WHOQOL-BREF at baseline (0 to 100),num,Welch t-test,90,29,57.3077,56.0013,1.3064,0.6393,NA,NA
+Timing check: excluding 1 invited with baseline dated after round 1,Environmental domain at baseline (0 to 100),num,Welch t-test,90,29,56.9792,57.1121,-0.1329,0.9624,NA,NA

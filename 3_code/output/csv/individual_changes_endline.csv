@@ -1,0 +1,4 @@
+group,n,rose,fell,unchanged,mean_baseline,mean_endline,mean_change,mean_change_fell,mean_change_rose,pct_change,mean_months_baseline_to_endline,mean_months_entry_to_endline,sample,scale
+Never invited,23,8,14,1,53.679,48.328,-5.351,-12.088,5.769,-9.969,11.4,NA,observed at baseline and endline (n = 85),WHO 0 to 100
+"Invited, did not attend",38,13,23,2,57.971,54.099,-3.871,-10.744,7.692,-6.678,11.5,NA,observed at baseline and endline (n = 85),WHO 0 to 100
+Attended,24,12,11,1,55.208,57.532,2.324,-4.283,8.574,4.209,12.1,9.3,observed at baseline and endline (n = 85),WHO 0 to 100

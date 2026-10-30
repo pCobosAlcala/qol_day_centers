@@ -1,0 +1,21 @@
+sample,measure,value,denominator,submitted,definition,reproduced
+"Attended by the endline survey, endline sample (the text)",People,24,24,NA,attended the centre for more than five days,NA
+"Attended by the endline survey, endline sample (the text)",Mean age at baseline (years),80.1,24,81,from birth dates at the baseline interview; the submission computed age at the script run date,no
+"Attended by the endline survey, endline sample (the text)",Women (%),70.8,24,70.8,sex recorded at baseline,yes
+"Attended by the endline survey, endline sample (the text)",Cared for by a son or daughter (%),69.6,23,69.6,main caregiver answered Padre o madre or Hija/o; people without a caregiver record excluded,yes
+"Attended by the endline survey, endline sample (the text)",Cared for by a spouse or partner (%),21.7,23,21.7,main caregiver answered Esposa/o o companera/o; people without a caregiver record excluded,yes
+"Attended by the endline survey, endline sample (the text)","Cared for by a son or daughter, control.csv coding (%)",54.2,24,NA,"Padre o madre only, missing counted as no: the coding of the submitted balance tables",NA
+"Attended by the endline survey, endline sample (the text)",Primary education as highest level (%),58.3,24,58.3,education code 3 (Primaria) exactly,yes
+"Attended by the endline survey, endline sample (the text)",Primary education or less (%),66.7,24,NA,"education codes 1 to 3 (none, preschool, primary)",NA
+"Attended by the endline survey, endline sample (the text)","Education, mean on the 1 to 10 scale",3.6,24,NA,"1 none, 3 primary, 4 lower secondary, 9 university degree, 10 postgraduate",NA
+"Attended by the endline survey, endline sample (the text)",WHOQOL-BREF at baseline (0 to 100),55.2,24,NA,WHO 0 to 100 scale,NA
+"Attended over the whole register, all invited (reference)",People,33,33,NA,attended the centre for more than five days,NA
+"Attended over the whole register, all invited (reference)",Mean age at baseline (years),81.2,33,81,from birth dates at the baseline interview; the submission computed age at the script run date,no
+"Attended over the whole register, all invited (reference)",Women (%),75.8,33,70.8,sex recorded at baseline,no
+"Attended over the whole register, all invited (reference)",Cared for by a son or daughter (%),68.8,32,69.6,main caregiver answered Padre o madre or Hija/o; people without a caregiver record excluded,no
+"Attended over the whole register, all invited (reference)",Cared for by a spouse or partner (%),15.6,32,21.7,main caregiver answered Esposa/o o companera/o; people without a caregiver record excluded,no
+"Attended over the whole register, all invited (reference)","Cared for by a son or daughter, control.csv coding (%)",54.5,33,NA,"Padre o madre only, missing counted as no: the coding of the submitted balance tables",NA
+"Attended over the whole register, all invited (reference)",Primary education as highest level (%),60.6,33,58.3,education code 3 (Primaria) exactly,no
+"Attended over the whole register, all invited (reference)",Primary education or less (%),69.7,33,NA,"education codes 1 to 3 (none, preschool, primary)",NA
+"Attended over the whole register, all invited (reference)","Education, mean on the 1 to 10 scale",3.6,33,NA,"1 none, 3 primary, 4 lower secondary, 9 university degree, 10 postgraduate",NA
+"Attended over the whole register, all invited (reference)",WHOQOL-BREF at baseline (0 to 100),55.5,33,NA,WHO 0 to 100 scale,NA

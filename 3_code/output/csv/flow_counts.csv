@@ -1,0 +1,23 @@
+item,n,months
+expressed_interest_baseline,120,October 2022 to January 2023
+invited,91,
+never_invited,29,
+took_up_place,33,January 2023 to August 2023
+did_not_take_up_place,58,
+took_up_attending_by_midline,28,
+took_up_attending_by_midline_surveyed_endline,24,
+took_up_entered_after_midline,3,
+took_up_no_follow_up_survey,2,
+midline_attending,28,
+midline_invited_not_attending,51,
+midline_never_invited,23,
+midline_total,102,April 2023 to September 2023
+endline_attending,24,
+endline_invited_not_attending,38,
+endline_never_invited,23,
+endline_total,85,October 2023 to February 2024
+midline_not_surveyed_invited,12,
+midline_not_surveyed_never_invited,6,
+endline_not_surveyed_invited,29,
+endline_not_surveyed_never_invited,6,
+all_three_waves,82,

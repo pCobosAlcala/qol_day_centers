@@ -1,0 +1,179 @@
+section,item,value,detail
+samples,n_baseline,120,"everyone randomised, all interviewed at baseline"
+samples,n_invited,91,invited in one of the eight rounds
+samples,n_never_invited,29,never invited
+samples,n_midline_sample,102,Panel A. Midline sample (baseline and midline observed)
+samples,n_midline_sample_invited,79,Panel A. Midline sample (baseline and midline observed)
+samples,n_midline_sample_never_invited,23,Panel A. Midline sample (baseline and midline observed)
+samples,n_endline_sample,85,Panel B. Endline sample (baseline and endline observed)
+samples,n_endline_sample_invited,62,Panel B. Endline sample (baseline and endline observed)
+samples,n_endline_sample_never_invited,23,Panel B. Endline sample (baseline and endline observed)
+samples,n_all3_sample,82,Panel C. Observed at all three waves
+samples,n_all3_sample_invited,61,Panel C. Observed at all three waves
+samples,n_all3_sample_never_invited,21,Panel C. Observed at all three waves
+samples,n_endline_not_midline,3,"in the endline sample, not surveyed at midline"
+samples,n_midline_not_endline,20,"in the midline sample, not surveyed at endline"
+samples,n_attending_midline,28,"more than five days by the midline survey, midline sample"
+samples,n_attending_endline,24,"more than five days by the endline survey, endline sample"
+samples,n_attended_register,33,more than five days in the whole register (18 January 2023 to 16 February 2024)
+samples,n_attended_register_began_after_midline,3,of those: surveyed at midline with five days or fewer by then
+samples,n_attended_register_no_followup,2,of those: no survey after baseline
+samples,n_attended_register_not_at_endline,9,of those: not surveyed at endline
+samples,n_invited_any_day_register,41,invited with at least one day in the register
+samples,n_missing_katz_lawton,1,all invited; Katz and Lawton missing together
+samples,n_missing_caregiver,1,all invited
+table2,t2_age0_invited,80.2641,"Age at baseline (years), n = 91"
+table2,t2_hh_size_invited,2.8571,"People living with the older adult, n = 91"
+table2,t2_educ_invited,3.8791,"Education (1 to 10), n = 91"
+table2,t2_lawton0_invited,3.6556,"Autonomy (Lawton, 0 to 8), n = 90"
+table2,t2_katz0_invited,5.3444,"Independence (Katz, 0 to 6), n = 90"
+table2,t2_female_invited,76.9231,"Female (%), n = 91"
+table2,t2_indigenous_invited,26.3736,"Indigenous (%), n = 91"
+table2,t2_child_carer_invited,74.4444,"Cared for by a son or daughter (%), n = 90"
+table2,t2_whoqol_y0_invited,57.1429,"WHOQOL-BREF at baseline (0 to 100), n = 91"
+table2,t2_environmental_y0_invited,56.8338,"Environmental domain at baseline (0 to 100), n = 91"
+table2,t2_age0_not_invited,80.5266,"Age at baseline (years), n = 29"
+table2,t2_hh_size_not_invited,2.8621,"People living with the older adult, n = 29"
+table2,t2_educ_not_invited,3.6897,"Education (1 to 10), n = 29"
+table2,t2_lawton0_not_invited,3.7931,"Autonomy (Lawton, 0 to 8), n = 29"
+table2,t2_katz0_not_invited,5.5862,"Independence (Katz, 0 to 6), n = 29"
+table2,t2_female_not_invited,68.9655,"Female (%), n = 29"
+table2,t2_indigenous_not_invited,44.8276,"Indigenous (%), n = 29"
+table2,t2_child_carer_not_invited,82.7586,"Cared for by a son or daughter (%), n = 29"
+table2,t2_whoqol_y0_not_invited,56.0013,"WHOQOL-BREF at baseline (0 to 100), n = 29"
+table2,t2_environmental_y0_not_invited,57.1121,"Environmental domain at baseline (0 to 100), n = 29"
+table2,t2_age0_diff,-0.2625,"Age at baseline (years) difference, first minus second group"
+table2,t2_hh_size_diff,-0.0049,"People living with the older adult difference, first minus second group"
+table2,t2_educ_diff,0.1895,"Education (1 to 10) difference, first minus second group"
+table2,t2_lawton0_diff,-0.1375,"Autonomy (Lawton, 0 to 8) difference, first minus second group"
+table2,t2_katz0_diff,-0.2418,"Independence (Katz, 0 to 6) difference, first minus second group"
+table2,t2_female_diff,7.9576,"Female (%) difference, first minus second group"
+table2,t2_indigenous_diff,-18.454,"Indigenous (%) difference, first minus second group"
+table2,t2_child_carer_diff,-8.3142,"Cared for by a son or daughter (%) difference, first minus second group"
+table2,t2_whoqol_y0_diff,1.1415,"WHOQOL-BREF at baseline (0 to 100) difference, first minus second group"
+table2,t2_environmental_y0_diff,-0.2783,"Environmental domain at baseline (0 to 100) difference, first minus second group"
+table2,t2_age0_p,0.8601,Age at baseline (years) Welch t-test p value as shown in the table
+table2,t2_hh_size_p,0.9899,People living with the older adult Welch t-test p value as shown in the table
+table2,t2_educ_p,0.6196,Education (1 to 10) Welch t-test p value as shown in the table
+table2,t2_lawton0_p,0.7636,"Autonomy (Lawton, 0 to 8) Welch t-test p value as shown in the table"
+table2,t2_katz0_p,0.2709,"Independence (Katz, 0 to 6) Welch t-test p value as shown in the table"
+table2,t2_female_p,0.5382,Female (%) chi-squared p value as shown in the table
+table2,t2_indigenous_p,0.1004,Indigenous (%) chi-squared p value as shown in the table
+table2,t2_child_carer_p,0.5053,Cared for by a son or daughter (%) chi-squared p value as shown in the table
+table2,t2_whoqol_y0_p,0.6819,WHOQOL-BREF at baseline (0 to 100) Welch t-test p value as shown in the table
+table2,t2_environmental_y0_p,0.9213,Environmental domain at baseline (0 to 100) Welch t-test p value as shown in the table
+table2,t2_female_p_fisher,0.4612,Female (%) Fisher exact p value
+table2,t2_indigenous_p_fisher,0.069,Indigenous (%) Fisher exact p value
+table2,t2_child_carer_p_fisher,0.4549,Cared for by a son or daughter (%) Fisher exact p value
+indigenous,indigenous_invited_pct_120,26.3736,all 120 at baseline
+indigenous,indigenous_not_invited_pct_120,44.8276,all 120 at baseline
+indigenous,indigenous_gap_pp_120,-18.454,"invited minus never invited, percentage points"
+indigenous,indigenous_p_chisq_corrected_120,0.1004,as shown in Table 2
+indigenous,indigenous_p_chisq_uncorrected_120,0.0609,no continuity correction
+indigenous,indigenous_p_fisher_120,0.069,Fisher exact
+indigenous,indigenous_invited_pct_midline102,25.3165,Panel A. Midline sample (baseline and midline observed)
+indigenous,indigenous_not_invited_pct_midline102,47.8261,Panel A. Midline sample (baseline and midline observed)
+indigenous,indigenous_gap_pp_midline102,-22.5096,Panel A. Midline sample (baseline and midline observed)
+indigenous,indigenous_p_chisq_midline102,0.0706,Panel A. Midline sample (baseline and midline observed)
+indigenous,indigenous_p_fisher_midline102,0.0691,Panel A. Midline sample (baseline and midline observed)
+indigenous,indigenous_invited_pct_endline85,25.8065,Panel B. Endline sample (baseline and endline observed)
+indigenous,indigenous_not_invited_pct_endline85,47.8261,Panel B. Endline sample (baseline and endline observed)
+indigenous,indigenous_gap_pp_endline85,-22.0196,Panel B. Endline sample (baseline and endline observed)
+indigenous,indigenous_p_chisq_endline85,0.0939,Panel B. Endline sample (baseline and endline observed)
+indigenous,indigenous_p_fisher_endline85,0.0682,Panel B. Endline sample (baseline and endline observed)
+indigenous,indigenous_invited_pct_all382,24.5902,Panel C. Observed at all three waves
+indigenous,indigenous_not_invited_pct_all382,47.619,Panel C. Observed at all three waves
+indigenous,indigenous_gap_pp_all382,-23.0289,Panel C. Observed at all three waves
+indigenous,indigenous_p_chisq_all382,0.0887,Panel C. Observed at all three waves
+indigenous,indigenous_p_fisher_all382,0.0587,Panel C. Observed at all three waves
+bonferroni,bonferroni_threshold,0.005,10 comparisons per table or panel
+bonferroni,min_p_table2_any_test,0.069,"Table 2, chi-squared or Fisher"
+bonferroni,n_pass_table2,0,rows of Table 2 below the threshold
+bonferroni,n_pass_balance_samples,0,rows of the annex below the threshold
+bonferroni,n_pass_attended,0,rows of the take up table below the threshold
+bonferroni,n_pass_attrition,1,rows of the attrition table below the threshold
+attended,attended_all_invited_n_attended,33,"Panel A. All invited people, whole register"
+attended,attended_all_invited_n_not,58,"Panel A. All invited people, whole register"
+attended,attended_all_invited_min_p,0.2184,"Panel A. All invited people, whole register smallest p value, either test"
+attended,attended_midline_n_attended,28,Panel B. Invited people in the midline sample
+attended,attended_midline_n_not,51,Panel B. Invited people in the midline sample
+attended,attended_midline_min_p,0.2534,"Panel B. Invited people in the midline sample smallest p value, either test"
+attended,attended_endline_n_attended,24,Panel C. Invited people in the endline sample
+attended,attended_endline_n_not,38,Panel C. Invited people in the endline sample
+attended,attended_endline_min_p,0.2164,"Panel C. Invited people in the endline sample smallest p value, either test"
+attended,attended_all_invited_rows_p_below_010_n,0,"Panel A. All invited people, whole register"
+attended,attended_midline_rows_p_below_010_n,0,Panel B. Invited people in the midline sample
+attended,attended_endline_rows_p_below_010_n,0,Panel C. Invited people in the endline sample
+attrition,retention_midline_min_p,0.0032,"Panel A. Midline sample smallest p value, either test"
+attrition,retention_endline_min_p,0.0586,"Panel B. Endline sample smallest p value, either test"
+attrition,retention_all3_min_p,0.0322,"Panel C. Observed at all three waves smallest p value, either test"
+attrition,retention_midline_rows_p_below_010_n,3,Panel A. Midline sample
+attrition,retention_midline_age0_retained,79.5369,"Age at baseline (years), n = 102"
+attrition,retention_midline_lawton0_retained,3.8812,"Autonomy (Lawton, 0 to 8), n = 101"
+attrition,retention_midline_environmental_y0_retained,56.1887,"Environmental domain at baseline (0 to 100), n = 102"
+attrition,retention_midline_age0_not_retained,84.8075,"Age at baseline (years), n = 18"
+attrition,retention_midline_lawton0_not_retained,2.6111,"Autonomy (Lawton, 0 to 8), n = 18"
+attrition,retention_midline_environmental_y0_not_retained,60.9375,"Environmental domain at baseline (0 to 100), n = 18"
+attrition,retention_midline_age0_diff,-5.2706,"Age at baseline (years) difference, first minus second group"
+attrition,retention_midline_lawton0_diff,1.2701,"Autonomy (Lawton, 0 to 8) difference, first minus second group"
+attrition,retention_midline_environmental_y0_diff,-4.7488,"Environmental domain at baseline (0 to 100) difference, first minus second group"
+attrition,retention_midline_age0_p,0.0032,Age at baseline (years) Welch t-test p value as shown in the table
+attrition,retention_midline_lawton0_p,0.0276,"Autonomy (Lawton, 0 to 8) Welch t-test p value as shown in the table"
+attrition,retention_midline_environmental_y0_p,0.0781,Environmental domain at baseline (0 to 100) Welch t-test p value as shown in the table
+attrition,retention_endline_rows_p_below_010_n,1,Panel B. Endline sample
+attrition,retention_endline_lawton0_retained,3.9405,"Autonomy (Lawton, 0 to 8), n = 84"
+attrition,retention_endline_lawton0_not_retained,3.0857,"Autonomy (Lawton, 0 to 8), n = 35"
+attrition,retention_endline_lawton0_diff,0.8548,"Autonomy (Lawton, 0 to 8) difference, first minus second group"
+attrition,retention_endline_lawton0_p,0.0586,"Autonomy (Lawton, 0 to 8) Welch t-test p value as shown in the table"
+attrition,retention_all3_rows_p_below_010_n,2,Panel C. Observed at all three waves
+attrition,retention_all3_lawton0_retained,3.9877,"Autonomy (Lawton, 0 to 8), n = 81"
+attrition,retention_all3_whoqol_y0_retained,55.652,"WHOQOL-BREF at baseline (0 to 100), n = 82"
+attrition,retention_all3_lawton0_not_retained,3.0526,"Autonomy (Lawton, 0 to 8), n = 38"
+attrition,retention_all3_whoqol_y0_not_retained,59.4889,"WHOQOL-BREF at baseline (0 to 100), n = 38"
+attrition,retention_all3_lawton0_diff,0.935,"Autonomy (Lawton, 0 to 8) difference, first minus second group"
+attrition,retention_all3_whoqol_y0_diff,-3.8369,"WHOQOL-BREF at baseline (0 to 100) difference, first minus second group"
+attrition,retention_all3_lawton0_p,0.0322,"Autonomy (Lawton, 0 to 8) Welch t-test p value as shown in the table"
+attrition,retention_all3_whoqol_y0_p,0.0925,WHOQOL-BREF at baseline (0 to 100) Welch t-test p value as shown in the table
+attrition_rates,attrition_midline_attended_the_centre_pct,6.0606,2 of 33 not surveyed
+attrition_rates,attrition_midline_invited_did_not_attend_pct,17.2414,10 of 58 not surveyed
+attrition_rates,attrition_midline_never_invited_pct,20.6897,6 of 29 not surveyed
+attrition_rates,attrition_midline_all_invited_pct,13.1868,12 of 91 not surveyed
+attrition_rates,attrition_midline_everyone_pct,15,18 of 120 not surveyed
+attrition_rates,attrition_endline_attended_the_centre_pct,27.2727,9 of 33 not surveyed
+attrition_rates,attrition_endline_invited_did_not_attend_pct,34.4828,20 of 58 not surveyed
+attrition_rates,attrition_endline_never_invited_pct,20.6897,6 of 29 not surveyed
+attrition_rates,attrition_endline_all_invited_pct,31.8681,29 of 91 not surveyed
+attrition_rates,attrition_endline_everyone_pct,29.1667,35 of 120 not surveyed
+attrition_rates,attrition_midline_test_three_groups_p_fisher,0.1874,Three groups Fisher exact
+attrition_rates,attrition_midline_test_attended_versus_invited_did_not_attend_p_fisher,0.199,"Attended versus invited, did not attend Fisher exact"
+attrition_rates,attrition_midline_test_attended_versus_never_invited_p_fisher,0.1314,Attended versus never invited Fisher exact
+attrition_rates,attrition_midline_test_invited_did_not_attend_versus_never_invited_p_fisher,0.7717,"Invited, did not attend versus never invited Fisher exact"
+attrition_rates,attrition_midline_test_by_arm_invited_versus_never_invited_p_fisher,0.3727,By arm: invited versus never invited Fisher exact
+attrition_rates,attrition_endline_test_three_groups_p_fisher,0.3999,Three groups Fisher exact
+attrition_rates,attrition_endline_test_attended_versus_invited_did_not_attend_p_fisher,0.6403,"Attended versus invited, did not attend Fisher exact"
+attrition_rates,attrition_endline_test_attended_versus_never_invited_p_fisher,0.5701,Attended versus never invited Fisher exact
+attrition_rates,attrition_endline_test_invited_did_not_attend_versus_never_invited_p_fisher,0.2212,"Invited, did not attend versus never invited Fisher exact"
+attrition_rates,attrition_endline_test_by_arm_invited_versus_never_invited_p_fisher,0.3486,By arm: invited versus never invited Fisher exact
+caregiver,caregiver_hija_recoded_n_120,13,"caregivers recorded as Hija/o, now counted as a child"
+caregiver,caregiver_hija_recoded_n_82,9,the same among the 82 of the submitted balance tables
+caregiver,caregiver_child_invited_pct_82_submitted,63.9344,"submitted coding, 82 people"
+caregiver,caregiver_child_not_invited_pct_82_submitted,80.9524,"submitted coding, 82 people"
+caregiver,caregiver_child_p_82_submitted,0.2406,"submitted coding, chi-squared"
+caregiver,caregiver_child_invited_pct_82_corrected,76.6667,"corrected coding, 82 people"
+caregiver,caregiver_child_not_invited_pct_82_corrected,90.4762,"corrected coding, 82 people"
+caregiver,caregiver_child_p_82_corrected,0.2939,"corrected coding, chi-squared"
+timing,timing_late_baseline_n,1,"invited, baseline dated after round 1 (2 Jan 2023, to confirm)"
+timing,timing_late_baseline_in_midline_sample_n,1,of those
+timing,timing_late_baseline_in_endline_sample_n,0,of those
+timing,timing_table2_max_abs_change_p,0.0426,"Table 2 without them, chi-squared and Fisher"
+timing,timing_table2_indigenous_p_fisher_without,0.1049,Table 2 without them
+background,background_people,24,n = 24; attended the centre for more than five days
+background,background_mean_age_at_baseline_years,80.111,n = 24; from birth dates at the baseline interview; the submission computed age at the script run date
+background,background_women,70.8333,n = 24; sex recorded at baseline
+background,background_cared_for_by_a_son_or_daughter,69.5652,n = 23; main caregiver answered Padre o madre or Hija/o; people without a caregiver record excluded
+background,background_cared_for_by_a_spouse_or_partner,21.7391,n = 23; main caregiver answered Esposa/o o companera/o; people without a caregiver record excluded
+background,background_cared_for_by_a_son_or_daughter_control_csv_coding,54.1667,"n = 24; Padre o madre only, missing counted as no: the coding of the submitted balance tables"
+background,background_primary_education_as_highest_level,58.3333,n = 24; education code 3 (Primaria) exactly
+background,background_primary_education_or_less,66.6667,"n = 24; education codes 1 to 3 (none, preschool, primary)"
+background,background_education_mean_on_the_1_to_10_scale,3.625,"n = 24; 1 none, 3 primary, 4 lower secondary, 9 university degree, 10 postgraduate"
+background,background_whoqol_bref_at_baseline_0_to_100,55.2083,n = 24; WHO 0 to 100 scale

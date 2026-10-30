@@ -1,0 +1,9 @@
+
+
+Each arrow is one person, from the baseline score to the endline score. Baseline to endline is about a year for everyone (11.6 months on average); for those who attended, endline came about nine months after entry (9.3 months on average). Sample: the 85 people observed at baseline and endline (the endline estimation sample). Attended means more than five days at the centre by the endline survey. People are ordered by baseline score within each panel; a grey dot is a person whose score did not change. WHOQOL-BREF composite of the standard 26 items on the WHO 0 to 100 scale (25 times the item mean minus 1). Panel notes: change in the group mean as a per cent of the group's own baseline mean, and in points of the 0 to 100 scale in parentheses.
+8 rose, 14 fell, 1 unchanged
+mean change −10.0% (−5.4 points)
+13 rose, 23 fell, 2 unchanged
+mean change −6.7% (−3.9 points)
+12 rose, 11 fell, 1 unchanged
+mean change +4.2% (+2.3 points)

@@ -1,0 +1,3 @@
+Attendance and quality of life at endline, by what people did (descriptive)
+
+Endline sample (85 people). Attending means more than five days at the centre by the endline survey; days are counted up to that survey from the attendance register. WHOQOL-BREF on the WHO 0 to 100 scale. The last column comes from a regression of the endline score on the baseline score and the four groups (robust HC2 errors), in per cent of the never invited group's baseline score. Only the invitation was randomised: attendance and its intensity were chosen, so the groups are not comparable and these differences are descriptive, not effects.
